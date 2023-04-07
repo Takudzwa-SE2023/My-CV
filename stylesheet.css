@@ -1,0 +1,129 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-image: url('CVbackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navigation */
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    background-color: #333;
+}
+nav li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+nav a {
+    display: block;
+    padding: 10px;
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: #444;
+}
+
+/* Main content */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 0;
+    font-size: 18px;
+}
+
+ul {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+li {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+img {
+    position:absolute;
+    top: 100px;
+    left: 100px;
+    width: 300px;
+    height: auto;
+    border-radius: 300%;
+    
+}
+.img2 {
+    position: absolute;
+    bottom: 0;
+    top:500px
+}
+
+		.next-page {
+			position: fixed;
+			bottom: 20px;
+			right: 20px;
+			font-size: 30px;
+			color: #007bff;
+			text-decoration: none;
+			z-index: 999;
+		}
+
+        .prev-page {
+			position: fixed;
+			bottom: 20px;
+			left: 20px;
+			font-size: 30px;
+			color: #007bff;
+			text-decoration: none;
+			z-index: 999;
+		}
+    
+    
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
