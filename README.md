@@ -4,8 +4,7 @@ This is my Current CV
 Click this <a target="_blank" href="https://Takudzwa-SE2023
 .github.io/My-CV/index.html">**link**</a> to visit the website
 
-# MyCV
-*BUILD IN PROGRESS*
+
 
 ## Description
 
@@ -24,7 +23,7 @@ The Website is intended to be my CV.
 ## Usage Section 
 - t open this <a target="_blank" href="https://Takudzwa-SE2023
 .github.io/My-CV/index.html">**link**</a>.
-- The homepage will look like this:<img src="https://www.blogger.com/u/1/blog/post/edit/preview/4554751271559118081/1142841201330357235">
+- The homepage will look like this:<img src="(https://user-images.githubusercontent.com/127966543/230741674-bd124b9e-a971-4d21-a162-ffcbb120104f.JPG">
 
 ## Credits
 - <a href="https://github.com/Takudzwa-SE2023">Takudzwa Karombo</a>
